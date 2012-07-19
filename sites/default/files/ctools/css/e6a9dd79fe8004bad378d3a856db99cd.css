@@ -1,0 +1,112 @@
+.panels-flexible-region {
+  padding: 0;
+}
+
+.panels-flexible-region-inside {
+  padding-right: 0.5em;
+  padding-left: 0.5em;
+}
+
+.panels-flexible-region-inside-first {
+  padding-left: 0;
+}
+
+.panels-flexible-region-inside-last {
+  padding-right: 0;
+}
+
+.panels-flexible-column {
+  padding: 0;
+}
+
+.panels-flexible-column-inside {
+  padding-right: 0.5em;
+  padding-left: 0.5em;
+}
+
+.panels-flexible-column-inside-first {
+  padding-left: 0;
+}
+
+.panels-flexible-column-inside-last {
+  padding-right: 0;
+}
+
+.panels-flexible-row {
+  padding: 0 0 0.5em 0;
+  margin: 0;
+}
+
+.panels-flexible-row-last {
+  padding-bottom: 0;
+}
+
+.panels-flexible-column-2-main {
+  float: left;
+  width: 81.9535%;
+}
+
+.panels-flexible-column-2-2 {
+  float: left;
+  width: 17.0465%;
+}
+
+.panels-flexible-2-inside {
+  padding-right: 0px;
+}
+
+.panels-flexible-2 {
+  width: auto;
+}
+
+.panels-flexible-region-2-left {
+  position: relative;
+  float: left;
+  background-color: transparent;
+  width: 230px;
+}
+
+.panels-flexible-region-2-center {
+  position: relative;
+  float: left;
+  background-color: transparent;
+  width: 410px;
+}
+
+.panels-flexible-row-2-main-row-inside {
+  padding-left: 640px;
+  margin-left: -640px;
+  padding-right: 0px;
+}
+
+* html .panels-flexible-row-2-main-row-inside {
+  left: 640px;
+}
+
+.panels-flexible-region-2-bottom {
+  float: left;
+  width: 99.0000%;
+}
+
+.panels-flexible-row-2-1-inside {
+  padding-right: 0px;
+}
+
+.panels-flexible-region-2-right {
+  float: left;
+  width: 99.0000%;
+}
+
+.panels-flexible-row-2-3-inside {
+  padding-right: 0px;
+}
+
+.panels-flexible-region-2-right_bottom {
+  float: left;
+  width: 99.0000%;
+}
+
+.panels-flexible-row-2-4-inside {
+  padding-right: 0px;
+}
+
