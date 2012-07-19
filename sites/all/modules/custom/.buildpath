@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry kind="src" path="trails-01-hooks"/>
+	<buildpathentry kind="src" path="drupalscripts"/>
+	<buildpathentry kind="src" path="modules/trails-02-database-api"/>
+	<buildpathentry kind="src" path="modules/example_blog_feature"/>
+	<buildpathentry kind="src" path="trails"/>
+	<buildpathentry kind="src" path="articles"/>
+	<buildpathentry kind="src" path="modules/input"/>
+	<buildpathentry kind="src" path="modules/scaffolding"/>
+	<buildpathentry kind="src" path="scaffolding"/>
+	<buildpathentry kind="src" path="modules/trails"/>
+	<buildpathentry kind="src" path="example_blog_feature"/>
+	<buildpathentry kind="src" path="modules/trails-01-hooks"/>
+	<buildpathentry kind="src" path="drush_usersplus"/>
+	<buildpathentry kind="src" path="modules/pages"/>
+	<buildpathentry kind="src" path="pages"/>
+	<buildpathentry kind="src" path="modules/drush_usersplus"/>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+	<buildpathentry kind="con" path="org.eclipse.dltk.USER_LIBRARY/drupal"/>
+	<buildpathentry kind="src" path="modules/lookandfeel"/>
+	<buildpathentry kind="src" path="input"/>
+	<buildpathentry kind="src" path="modules/articles"/>
+	<buildpathentry kind="src" path="modules/drupalscripts"/>
+	<buildpathentry kind="src" path="trails-02-database-api"/>
+	<buildpathentry kind="src" path="lookandfeel"/>
+</buildpath>

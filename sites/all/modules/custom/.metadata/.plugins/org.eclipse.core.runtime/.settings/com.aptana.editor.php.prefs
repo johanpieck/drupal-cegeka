@@ -1,0 +1,4 @@
+com.aptana.editor.php.turnedOffLibraries=
+com.aptana.editor.php.userLibraries=drupal;C\:\\xampp\\htdocs\\drupal\\includes;C\:\\xampp\\htdocs\\drupal\\modules;C\:\\xampp\\htdocs\\drupal\\sites\\all\\modules
+com.aptana.editor.php.workspaceDefaultLocale=nl_BE
+eclipse.preferences.version=1

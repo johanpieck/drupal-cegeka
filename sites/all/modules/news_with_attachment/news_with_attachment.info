@@ -1,0 +1,12 @@
+name = News with attachment
+core = 7.x
+package = Features
+version = 7.x-1.0
+project = news_with_attachment
+dependencies[] = features
+dependencies[] = file
+dependencies[] = filefield_sources
+features[features_api][] = api:1
+features[field][] = node-news-body
+features[field][] = node-news-field_attachement
+features[node][] = news

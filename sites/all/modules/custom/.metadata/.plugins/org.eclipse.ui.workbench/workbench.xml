@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="42" version="2.0">
+<workbenchAdvisor/>
+<window height="940" maximized="true" width="1200" x="200" y="80">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout>
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="122" y="22"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="137" y="22"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="84" y="22"/>
+<coolItem id="com.aptana.ui.globalActionSet" itemType="typeToolBarContribution" x="168" y="22"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="84" y="22"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="91" y="22"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.browser.editor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="com.aptana.editor.php" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1341862605589" focus="true" label="Workspace - Web">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="com.aptana.editor.php" name="input.module" partName="input.module" path="C:/xampp/htdocs/drupal/sites/all/modules/custom/modules/input/input.module" title="input.module" tooltip="modules/input/input.module" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/modules/input/input.module"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="714" selectionTopPixel="0"/>
+</editor>
+<editor activePart="true" focus="true" id="com.aptana.terminal.TerminalEditor" name="" partName="Terminal" title="Terminal" tooltip="" workbook="DefaultEditorWorkbook">
+<input factoryID="com.aptana.terminal.TerminalElementFactory">
+<title>Terminal</title>
+<workingDirectory/>
+</input>
+</editor>
+<editor id="org.eclipse.ui.DefaultTextEditor" name="02.input.module.embedded-form.step" partName="02.input.module.embedded-form.step" path="C:/xampp/htdocs/drupal/sites/all/modules/custom/modules/input/steps/02.input.module.embedded-form.step" title="02.input.module.embedded-form.step" tooltip="modules/input/steps/02.input.module.embedded-form.step" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/modules/input/steps/02.input.module.embedded-form.step"/>
+<editorState selectionHorizontalPixel="0" selectionLength="1529" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.aptana.editor.php" name="trails.module" partName="trails.module" path="C:/xampp/htdocs/drupal/sites/all/modules/custom/modules/trails/trails.module" title="trails.module" tooltip="modules/trails/trails.module" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/modules/trails/trails.module"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="8912" selectionTopPixel="3771"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.ui.navigator.ProjectExplorer" partName="Project Explorer">
+<viewState CommonNavigator.LINKING_ENABLED="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0"/>
+</view>
+<view id="com.aptana.snippets.ui.views.SnippetsView" partName="Snippets">
+<viewState/>
+</view>
+<view id="com.aptana.terminal.views.terminal" partName="Terminal">
+<viewState>
+<title>Terminal</title>
+<workingDirectory>C:\xampp\htdocs\drupal\sites\all\modules\custom\modules</workingDirectory>
+</viewState>
+</view>
+<view id="com.aptana.samples.ui.SamplesView" partName="Samples">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.ProblemView" partName="Problems">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
+<columnWidths org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="90" org.eclipse.ui.ide.pathField="120" org.eclipse.ui.ide.resourceField="90" org.eclipse.ui.ide.severityAndDescriptionField="300"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="com.aptana.explorer.view" partName="App Explorer">
+<viewState CommonNavigator.LINKING_ENABLED="0" GitChangedFilesFilterEnabled="" activeProject="modules">
+<project name="PHP">&#x0A;<selection>&#x0A;<element path="/modules"/>
+</selection>
+</project>
+<project name="modules">&#x0A;<expanded>&#x0A;<element path="/modules/input"/>
+<element path="/modules/input/steps"/>
+</expanded>
+<selection>&#x0A;<element path="/modules/input/input.info"/>
+</selection>
+</project>
+</viewState>
+</view>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
+<viewState/>
+</view>
+</views>
+<perspectives activePart="com.aptana.terminal.TerminalEditor" activePerspective="com.aptana.ui.WebPerspective">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="com.aptana.ui.internal.WebPerspectiveFactory" id="com.aptana.ui.WebPerspective" label="Web"/>
+<alwaysOnActionSet id="com.aptana.browser.actionSet"/>
+<alwaysOnActionSet id="com.aptana.ruby.debug.ui.RubyDebugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="com.aptana.editor.common.presentation"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="com.aptana.js.debug.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.presentation"/>
+<alwaysOnActionSet id="com.aptana.ui.globalActionSet"/>
+<alwaysOnActionSet id="com.aptana.terminal.actionSet"/>
+<show_view_action id="com.aptana.browser.views.webbrowser"/>
+<show_view_action id="com.aptana.explorer.view"/>
+<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<show_view_action id="com.aptana.ui.io.remoteview"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="com.aptana.samples.ui.SamplesView"/>
+<show_view_action id="com.aptana.snippets.ui.views.SnippetsView"/>
+<show_view_action id="com.aptana.terminal.views.terminal"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="com.aptana.webserver.ui.view"/>
+<new_wizard_action id="com.aptana.editor.php.NewPHPProjectWizard"/>
+<new_wizard_action id="com.aptana.ui.wizards.NewWebProject"/>
+<new_wizard_action id="com.aptana.ruby.core.ui.rubyProjectWizard"/>
+<new_wizard_action id="com.aptana.ui.wizards.new.file"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.editors.wizards.UntitledTextFileWizard"/>
+<new_wizard_action id="org.radrails.rails.ui.projectWizard"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<view id="com.aptana.explorer.view"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="com.aptana.terminal.views.terminal"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<view id="com.aptana.samples.ui.SamplesView"/>
+<view id="com.aptana.snippets.ui.views.SnippetsView"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="left">
+<folder activePageID="org.eclipse.ui.navigator.ProjectExplorer" appearance="2" expanded="2">
+<page content="org.eclipse.ui.navigator.ProjectExplorer" label="Project Explorer"/>
+<page content="com.aptana.explorer.view" label="App Explorer"/>
+<page content="com.aptana.ui.io.remoteview" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="882" ratioRight="294" relationship="2" relative="left">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.23067705" ratioLeft="385" ratioRight="1284" relationship="2" relative="left"/>
+<info folder="true" part="terminalArea" ratio="0.75" ratioLeft="636" ratioRight="212" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="com.aptana.terminal.views.terminal" appearance="2" expanded="2">
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="com.aptana.terminal.views.terminal" label="Terminal"/>
+<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<page content="org.eclipse.pde.runtime.LogView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.TaskList" label="LabelNotFound"/>
+<page content="com.aptana.terminal.views.terminal:1387b91d8e2" label="LabelNotFound"/>
+<page content="com.aptana.terminal.views.terminal:1387b9223bf" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@6ab533" ratio="0.75" ratioLeft="636" ratioRight="212" relationship="4" relative="left">
+<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
+<page content="com.aptana.samples.ui.SamplesView" label="Samples"/>
+<page content="com.aptana.snippets.ui.views.SnippetsView" label="Snippets"/>
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.php" path="/modules/tips/tips.module"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.php" path="/modules/trails/trails.module"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.php" path="/modules/tips/tips.module"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.php" path="/modules/tips/tips.module"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.php" path="/modules/trails-02-database-api/trails.install"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.php" path="/modules/input/input.module"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/modules/input/steps/01.input.module.simple-form.step"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.php" path="/modules/trails/trails.module"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.php" path="/modules/trails/trails.module"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/modules/input/input.info"/>
+<editor factoryID="com.aptana.terminal.TerminalElementFactory" id="com.aptana.terminal.TerminalEditor">
+<title>Terminal</title>
+<workingDirectory/>
+</editor>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.php" path="/modules/trails/trails.module"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/modules/input/steps/02.input.module.embedded-form.step"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/modules/input/steps/01.input.module.simple-form.step"/>
+<editor factoryID="com.aptana.terminal.TerminalElementFactory" id="com.aptana.terminal.TerminalEditor">
+<title>Terminal</title>
+<workingDirectory/>
+</editor>
+</editors>
+<item historyLabel="trails.module" index="1">
+<position info="not_deleted" x="1590" y="0"/>
+</item>
+<item historyLabel="tips.module" index="0">
+<position/>
+</item>
+<item historyLabel="tips.module" index="0">
+<position/>
+</item>
+<item historyLabel="tips.module" index="0">
+<position/>
+</item>
+<item historyLabel="tips.module" index="0">
+<position info="not_deleted" x="1272" y="0"/>
+</item>
+<item historyLabel="trails.module" index="1">
+<position info="not_deleted" x="1590" y="0"/>
+</item>
+<item historyLabel="tips.module" index="0">
+<position info="not_deleted" x="1089" y="0"/>
+</item>
+<item historyLabel="trails.module" index="1">
+<position info="not_deleted" x="1303" y="0"/>
+</item>
+<item historyLabel="tips.module" index="2">
+<position info="not_deleted" x="8677" y="0"/>
+</item>
+<item historyLabel="trails.module" index="1">
+<position info="not_deleted" x="8986" y="0"/>
+</item>
+<item historyLabel="tips.module" index="2">
+<position info="not_deleted" x="8677" y="0"/>
+</item>
+<item historyLabel="tips.module" index="2">
+<position/>
+</item>
+<item historyLabel="tips.module" index="2">
+<position info="not_deleted" x="1339" y="0"/>
+</item>
+<item historyLabel="trails.module" index="1">
+<position info="not_deleted" x="8986" y="0"/>
+</item>
+<item historyLabel="trails.module" index="1">
+<position/>
+</item>
+<item historyLabel="trails.module" index="1">
+<position/>
+</item>
+<item historyLabel="trails.module" index="1">
+<position/>
+</item>
+<item historyLabel="trails.module" index="1">
+<position info="not_deleted" x="3222" y="0"/>
+</item>
+<item historyLabel="tips.module" index="2">
+<position info="not_deleted" x="6157" y="0"/>
+</item>
+<item historyLabel="trails.module" index="1">
+<position info="not_deleted" x="1178" y="0"/>
+</item>
+<item historyLabel="tips.module" index="3">
+<position info="not_deleted" x="781" y="0"/>
+</item>
+<item historyLabel="trails.install" index="4">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="input.module" index="5">
+<position info="not_deleted" x="956" y="0"/>
+</item>
+<item historyLabel="01.input.module.simple-form.step" index="6">
+<position info="not_deleted" x="0" y="915"/>
+</item>
+<item historyLabel="input.module" index="5">
+<position/>
+</item>
+<item historyLabel="trails.module" index="7">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="trails.module" index="7">
+<position info="not_deleted" x="2657" y="0"/>
+</item>
+<item historyLabel="input.module" index="5">
+<position/>
+</item>
+<item historyLabel="trails.module" index="8">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="trails.module" index="8">
+<position info="not_deleted" x="2022" y="11"/>
+</item>
+<item historyLabel="input.module" index="5">
+<position/>
+</item>
+<item historyLabel="input.info" index="9">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="input.module" index="5">
+<position/>
+</item>
+<item historyLabel="Terminal" index="10"/>
+<item historyLabel="input.module" index="5">
+<position/>
+</item>
+<item historyLabel="trails.module" index="11">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="trails.module" index="11">
+<position info="not_deleted" x="834" y="0"/>
+</item>
+<item historyLabel="trails.module" index="11">
+<position info="not_deleted" x="2442" y="0"/>
+</item>
+<item historyLabel="input.module" index="5">
+<position/>
+</item>
+<item historyLabel="Terminal" index="10"/>
+<item historyLabel="input.module" index="5">
+<position/>
+</item>
+<item historyLabel="02.input.module.embedded-form.step" index="12">
+<position info="not_deleted" x="0" y="1529"/>
+</item>
+<item historyLabel="input.module" index="5">
+<position info="not_deleted" x="1591" y="0"/>
+</item>
+<item historyLabel="Terminal" index="10"/>
+<item historyLabel="input.module" index="5">
+<position info="not_deleted" x="958" y="0"/>
+</item>
+<item historyLabel="01.input.module.simple-form.step" index="13">
+<position info="not_deleted" x="0" y="915"/>
+</item>
+<item historyLabel="input.module" index="5">
+<position info="not_deleted" x="958" y="0"/>
+</item>
+<item historyLabel="Terminal" index="10"/>
+<item historyLabel="input.module" index="5">
+<position info="not_deleted" x="955" y="0"/>
+</item>
+<item active="true" historyLabel="Terminal" index="14"/>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.php" name="trails.module" tooltip="modules/trails/trails.module">
+<persistable path="/modules/trails/trails.module"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="01.input.module.simple-form.step" tooltip="modules/input/steps/01.input.module.simple-form.step">
+<persistable path="/modules/input/steps/01.input.module.simple-form.step"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="02.input.module.embedded-form.step" tooltip="modules/input/steps/02.input.module.embedded-form.step">
+<persistable path="/modules/input/steps/02.input.module.embedded-form.step"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="input.info" tooltip="modules/input/input.info">
+<persistable path="/modules/input/input.info"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.php" name="input.module" tooltip="modules/input/input.module">
+<persistable path="/modules/input/input.module"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.php" name="trails.install" tooltip="modules/trails-02-database-api/trails.install">
+<persistable path="/modules/trails-02-database-api/trails.install"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.php" name="tips.module" tooltip="modules/tips/tips.module">
+<persistable path="/modules/tips/tips.module"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" name="common.inc" tooltip="C:\xampp\htdocs\drupal\includes\common.inc">
+<persistable uri="file:/C:/xampp/htdocs/drupal/includes/common.inc"/>
+</file>
+</mruList>
+</workbench>

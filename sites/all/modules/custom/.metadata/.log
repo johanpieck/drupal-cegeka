@@ -1,0 +1,259 @@
+!SESSION 2012-07-09 21:35:30.154 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_24
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=nl_BE
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY com.aptana.editor.common 4 0 2012-07-09 21:45:59.312
+!MESSAGE (Build 3.2.0.201206251729) [ERROR]  The input of the content provider should be the IParseRootNode, not the editor!
+
+!ENTRY com.aptana.editor.common 4 0 2012-07-09 21:45:59.325
+!MESSAGE (Build 3.2.0.201206251729) [ERROR]  The input of the content provider should be the IParseRootNode, not the editor!
+
+!ENTRY com.aptana.editor.common 4 0 2012-07-09 21:45:59.332
+!MESSAGE (Build 3.2.0.201206251729) [ERROR]  The input of the content provider should be the IParseRootNode, not the editor!
+
+!ENTRY com.aptana.editor.common 4 0 2012-07-09 21:45:59.339
+!MESSAGE (Build 3.2.0.201206251729) [ERROR]  The input of the content provider should be the IParseRootNode, not the editor!
+
+!ENTRY com.aptana.editor.common 4 0 2012-07-09 21:45:59.594
+!MESSAGE (Build 3.2.0.201206251729) [ERROR]  The input of the content provider should be the IParseRootNode, not the editor!
+
+!ENTRY com.aptana.editor.common 4 0 2012-07-09 21:46:05.719
+!MESSAGE (Build 3.2.0.201206251729) [ERROR]  The input of the content provider should be the IParseRootNode, not the editor!
+
+!ENTRY com.aptana.editor.common 4 0 2012-07-09 21:46:05.728
+!MESSAGE (Build 3.2.0.201206251729) [ERROR]  The input of the content provider should be the IParseRootNode, not the editor!
+
+!ENTRY com.aptana.editor.common 4 0 2012-07-09 21:46:05.739
+!MESSAGE (Build 3.2.0.201206251729) [ERROR]  The input of the content provider should be the IParseRootNode, not the editor!
+
+!ENTRY com.aptana.editor.common 4 0 2012-07-09 21:46:05.746
+!MESSAGE (Build 3.2.0.201206251729) [ERROR]  The input of the content provider should be the IParseRootNode, not the editor!
+
+!ENTRY com.aptana.editor.common 4 0 2012-07-09 21:46:06.020
+!MESSAGE (Build 3.2.0.201206251729) [ERROR]  The input of the content provider should be the IParseRootNode, not the editor!
+
+!ENTRY org.eclipse.core.resources 4 566 2012-07-09 21:55:10.038
+!MESSAGE Workspace was not properly initialized or has already shutdown.
+!SESSION 2012-07-10 09:53:55.642 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_24
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=nl_BE
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data C:\xampp\htdocs\drupal\sites\all\modules\custom
+
+!ENTRY com.aptana.editor.common 4 0 2012-07-11 15:47:15.218
+!MESSAGE (Build 3.2.0.201206251729) [ERROR]  The input of the content provider should be the IParseRootNode, not the editor!
+
+!ENTRY com.aptana.editor.common 4 0 2012-07-11 15:47:15.228
+!MESSAGE (Build 3.2.0.201206251729) [ERROR]  The input of the content provider should be the IParseRootNode, not the editor!
+
+!ENTRY com.aptana.editor.common 4 0 2012-07-11 15:47:15.233
+!MESSAGE (Build 3.2.0.201206251729) [ERROR]  The input of the content provider should be the IParseRootNode, not the editor!
+
+!ENTRY com.aptana.editor.common 4 0 2012-07-11 15:47:15.238
+!MESSAGE (Build 3.2.0.201206251729) [ERROR]  The input of the content provider should be the IParseRootNode, not the editor!
+
+!ENTRY com.aptana.editor.common 4 0 2012-07-11 15:47:15.494
+!MESSAGE (Build 3.2.0.201206251729) [ERROR]  The input of the content provider should be the IParseRootNode, not the editor!
+
+!ENTRY org.eclipse.core.jobs 4 2 2012-07-12 08:53:09.179
+!MESSAGE An internal error occurred during: "Delayed Presentation Reconciler".
+!STACK 0
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 3
+	at java.util.ArrayList.RangeCheck(Unknown Source)
+	at java.util.ArrayList.remove(Unknown Source)
+	at com.aptana.scope.ScopeSelector.matches(ScopeSelector.java:231)
+	at com.aptana.scope.ScopeSelector.bestMatch(ScopeSelector.java:54)
+	at com.aptana.theme.Theme.findMatch(Theme.java:473)
+	at com.aptana.theme.Theme.getDelayedTextAttribute(Theme.java:304)
+	at com.aptana.theme.Theme.getTextAttribute(Theme.java:287)
+	at com.aptana.theme.internal.ThemeManager.getTextAttribute(ThemeManager.java:164)
+	at com.aptana.theme.internal.ThemeManager.getToken(ThemeManager.java:791)
+	at com.aptana.editor.common.text.rules.ThemeingDamagerRepairer.getTokenTextAttribute(ThemeingDamagerRepairer.java:292)
+	at org.eclipse.jface.text.rules.DefaultDamagerRepairer.createPresentation(DefaultDamagerRepairer.java:179)
+	at com.aptana.editor.common.text.rules.ThemeingDamagerRepairer.createPresentation(ThemeingDamagerRepairer.java:129)
+	at com.aptana.editor.common.text.reconciler.CommonPresentationReconciler.createPresentation(CommonPresentationReconciler.java:179)
+	at com.aptana.editor.common.text.reconciler.CommonPresentationReconciler.processDamage(CommonPresentationReconciler.java:213)
+	at com.aptana.editor.common.text.reconciler.CommonPresentationReconciler.access$4(CommonPresentationReconciler.java:206)
+	at com.aptana.editor.common.text.reconciler.CommonPresentationReconciler$2.run(CommonPresentationReconciler.java:268)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.core.resources 4 372 2012-07-12 14:21:38.295
+!MESSAGE Resource '/PHP' is not open.
+
+!ENTRY com.aptana.ruby.core 4 0 2012-07-12 14:21:39.404
+!MESSAGE Cannot run program "ruby": CreateProcess error=2, The system cannot find the file specified
+
+!ENTRY com.aptana.ruby.core 4 0 2012-07-12 14:21:41.592
+!MESSAGE (Build 3.2.0.201206251729) [ERROR]  Expected field decl on top of stack, but was: 
+
+!ENTRY com.aptana.ruby.core 4 0 2012-07-12 14:21:41.593
+!MESSAGE (Build 3.2.0.201206251729) [ERROR]  Expected block on top of stack, but was: 
+
+!ENTRY com.aptana.ruby.core 4 0 2012-07-12 14:21:41.602
+!MESSAGE (Build 3.2.0.201206251729) [ERROR]  Expected field decl on top of stack, but was: 
+
+!ENTRY com.aptana.ruby.core 4 0 2012-07-12 14:21:41.602
+!MESSAGE (Build 3.2.0.201206251729) [ERROR]  Expected block on top of stack, but was: params()
+
+!ENTRY com.aptana.ruby.core 4 0 2012-07-12 14:21:41.602
+!MESSAGE (Build 3.2.0.201206251729) [ERROR]  Expected method decl on top of stack, but was: PHPFunction
+
+!ENTRY com.aptana.ruby.core 4 0 2012-07-12 14:21:41.603
+!MESSAGE (Build 3.2.0.201206251729) [ERROR]  Expected type decl on top of stack, but was: 
+
+!ENTRY com.aptana.ruby.core 4 0 2012-07-12 14:21:41.603
+!MESSAGE (Build 3.2.0.201206251729) [ERROR]  AST stack was empty upon exiting script, but should have contained the script.
+
+!ENTRY org.eclipse.core.jobs 4 2 2012-07-12 14:26:13.614
+!MESSAGE An internal error occurred during: "Loading bundle: C:\Users\bkjop\Aptana Rubles\HollyIT-Drupal-Bundle-for-Aptana-a1c943a".
+!STACK 0
+org.eclipse.core.runtime.AssertionFailedException: assertion failed: Bundle not serialized correctly to file C:\Users\bkjop\Aptana Rubles\HollyIT-Drupal-Bundle-for-Aptana-a1c943a\cache.nl_BE.yml
+	at org.eclipse.core.runtime.Assert.isTrue(Assert.java:110)
+	at com.aptana.scripting.model.BundleCacher.cache(BundleCacher.java:202)
+	at com.aptana.scripting.model.BundleCacher.cache(BundleCacher.java:138)
+	at com.aptana.scripting.model.BundleManager$BundleLoadJob.run(BundleManager.java:166)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY com.aptana.workbench 4 0 2012-07-12 14:27:04.899
+!MESSAGE (Build 3.2.0.201206251729) [ERROR]  Bundle has no repository defined, so we cannot grab a copy.
+!STACK 1
+org.eclipse.core.runtime.CoreException: Bundle has no repository defined, so we cannot grab a copy.
+	at com.aptana.workbench.commands.EditBundleJob.copyIfPossible(EditBundleJob.java:249)
+	at com.aptana.workbench.commands.EditBundleJob.grabBundle(EditBundleJob.java:116)
+	at com.aptana.workbench.commands.EditBundleJob.run(EditBundleJob.java:73)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 com.aptana.scripting 4 0 2012-07-12 14:27:04.920
+!MESSAGE Bundle has no repository defined, so we cannot grab a copy.
+
+!ENTRY com.aptana.scripting 4 0 2012-07-12 14:27:04.921
+!MESSAGE Bundle has no repository defined, so we cannot grab a copy.
+
+!ENTRY org.eclipse.ui 4 0 2012-07-12 14:27:28.782
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.jruby.exceptions.RaiseException: (Errno::EINVAL) =::
+	at org.jruby.RubyHash.replace(org/jruby/RubyHash.java:1623)
+!SESSION 2012-07-12 14:31:46.254 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_24
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=nl_BE
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY com.aptana.ruby.core 4 0 2012-07-12 14:32:18.260
+!MESSAGE Cannot run program "ruby": CreateProcess error=2, The system cannot find the file specified
+
+!ENTRY org.eclipse.ui 4 0 2012-07-12 14:32:44.753
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.jruby.exceptions.RaiseException: (Errno::EINVAL) =::
+	at org.jruby.RubyHash.replace(org/jruby/RubyHash.java:1623)
+
+!ENTRY org.eclipse.osgi 2 1 2012-07-12 14:41:00.370
+!MESSAGE NLS missing message: PHPFormatterModifyDialog_onOffTags in: com.aptana.editor.php.formatter.preferences.Messages
+
+!ENTRY org.eclipse.osgi 2 1 2012-07-12 14:41:00.626
+!MESSAGE NLS missing message: AddRemoveList_inputMessageErrorInfo in: com.aptana.formatter.ui.preferences.messages
+
+!ENTRY com.aptana.editor.common 4 0 2012-07-12 15:19:42.747
+!MESSAGE (Build 3.2.0.201206251729) [ERROR]  The input of the content provider should be the IParseRootNode, not the editor!
+
+!ENTRY com.aptana.editor.common 4 0 2012-07-12 15:19:42.758
+!MESSAGE (Build 3.2.0.201206251729) [ERROR]  The input of the content provider should be the IParseRootNode, not the editor!
+
+!ENTRY com.aptana.editor.common 4 0 2012-07-12 15:19:42.767
+!MESSAGE (Build 3.2.0.201206251729) [ERROR]  The input of the content provider should be the IParseRootNode, not the editor!
+
+!ENTRY com.aptana.editor.common 4 0 2012-07-12 15:19:42.773
+!MESSAGE (Build 3.2.0.201206251729) [ERROR]  The input of the content provider should be the IParseRootNode, not the editor!
+
+!ENTRY com.aptana.editor.common 4 0 2012-07-12 15:19:43.952
+!MESSAGE (Build 3.2.0.201206251729) [ERROR]  The input of the content provider should be the IParseRootNode, not the editor!
+
+!ENTRY com.aptana.editor.common 4 0 2012-07-12 15:19:43.959
+!MESSAGE (Build 3.2.0.201206251729) [ERROR]  The input of the content provider should be the IParseRootNode, not the editor!
+
+!ENTRY com.aptana.editor.common 4 0 2012-07-12 15:19:45.008
+!MESSAGE (Build 3.2.0.201206251729) [ERROR]  The input of the content provider should be the IParseRootNode, not the editor!
+
+!ENTRY com.aptana.editor.common 4 0 2012-07-12 15:19:45.015
+!MESSAGE (Build 3.2.0.201206251729) [ERROR]  The input of the content provider should be the IParseRootNode, not the editor!
+
+!ENTRY com.aptana.editor.common 4 0 2012-07-12 15:19:45.768
+!MESSAGE (Build 3.2.0.201206251729) [ERROR]  The input of the content provider should be the IParseRootNode, not the editor!
+
+!ENTRY com.aptana.editor.common 4 0 2012-07-12 15:19:45.788
+!MESSAGE (Build 3.2.0.201206251729) [ERROR]  The input of the content provider should be the IParseRootNode, not the editor!
+
+!ENTRY com.aptana.editor.common 4 0 2012-07-12 15:39:57.144
+!MESSAGE (Build 3.2.0.201206251729) [ERROR]  The input of the content provider should be the IParseRootNode, not the editor!
+
+!ENTRY com.aptana.editor.common 4 0 2012-07-12 15:39:57.152
+!MESSAGE (Build 3.2.0.201206251729) [ERROR]  The input of the content provider should be the IParseRootNode, not the editor!
+
+!ENTRY com.aptana.editor.common 4 0 2012-07-12 15:39:57.159
+!MESSAGE (Build 3.2.0.201206251729) [ERROR]  The input of the content provider should be the IParseRootNode, not the editor!
+
+!ENTRY com.aptana.editor.common 4 0 2012-07-12 15:39:57.165
+!MESSAGE (Build 3.2.0.201206251729) [ERROR]  The input of the content provider should be the IParseRootNode, not the editor!
+
+!ENTRY com.aptana.editor.common 4 0 2012-07-12 15:40:00.121
+!MESSAGE (Build 3.2.0.201206251729) [ERROR]  The input of the content provider should be the IParseRootNode, not the editor!
+
+!ENTRY com.aptana.editor.common 4 0 2012-07-12 15:40:00.130
+!MESSAGE (Build 3.2.0.201206251729) [ERROR]  The input of the content provider should be the IParseRootNode, not the editor!
+
+!ENTRY com.aptana.editor.common 4 0 2012-07-12 15:40:01.286
+!MESSAGE (Build 3.2.0.201206251729) [ERROR]  The input of the content provider should be the IParseRootNode, not the editor!
+
+!ENTRY org.eclipse.osgi 2 1 2012-07-12 15:57:22.216
+!MESSAGE NLS missing message: HttpServerSettingsTab_Title in: com.aptana.js.debug.ui.internal.launchConfigurations.messages
+
+!ENTRY org.eclipse.core.resources 4 566 2012-07-12 16:11:07.781
+!MESSAGE Workspace was not properly initialized or has already shutdown.
+!SESSION 2012-07-12 16:21:24.699 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_24
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=nl_BE
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY com.aptana.ruby.core 4 0 2012-07-12 16:21:49.840
+!MESSAGE Cannot run program "ruby": CreateProcess error=2, The system cannot find the file specified
+
+!ENTRY org.eclipse.osgi 2 1 2012-07-12 16:23:25.437
+!MESSAGE NLS missing message: HttpServerSettingsTab_Title in: com.aptana.js.debug.ui.internal.launchConfigurations.messages
+
+!ENTRY com.aptana.js.debug.core 4 0 2012-07-12 16:36:31.020
+!MESSAGE Configured browser C:\Users\bkjop\AppData\Local\Google\Chrome\Application\chrome.exe does not support debugging. Currently only Firefox is supported.
+
+!ENTRY com.aptana.editor.common 4 0 2012-07-12 17:07:18.915
+!MESSAGE (Build 3.2.0.201206251729) [ERROR]  The input of the content provider should be the IParseRootNode, not the editor!
+
+!ENTRY com.aptana.editor.common 4 0 2012-07-12 17:07:18.924
+!MESSAGE (Build 3.2.0.201206251729) [ERROR]  The input of the content provider should be the IParseRootNode, not the editor!
+
+!ENTRY com.aptana.editor.common 4 0 2012-07-12 17:07:18.933
+!MESSAGE (Build 3.2.0.201206251729) [ERROR]  The input of the content provider should be the IParseRootNode, not the editor!
+
+!ENTRY com.aptana.editor.common 4 0 2012-07-12 17:07:18.939
+!MESSAGE (Build 3.2.0.201206251729) [ERROR]  The input of the content provider should be the IParseRootNode, not the editor!
+
+!ENTRY com.aptana.editor.common 4 0 2012-07-12 17:07:19.172
+!MESSAGE (Build 3.2.0.201206251729) [ERROR]  The input of the content provider should be the IParseRootNode, not the editor!
+!SESSION 2012-07-12 21:13:26.767 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_24
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=nl_BE
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY com.aptana.ruby.core 4 0 2012-07-12 21:13:59.903
+!MESSAGE Cannot run program "ruby": CreateProcess error=2, The system cannot find the file specified
+
+!ENTRY org.eclipse.update.configurator 4 0 2012-07-12 21:15:50.610
+!MESSAGE Can't find bundle for base name feature, locale nl_BE

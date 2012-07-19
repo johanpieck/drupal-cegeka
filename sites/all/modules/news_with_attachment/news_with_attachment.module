@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the News with attachment feature.
+ */
+
+include_once 'news_with_attachment.features.inc';
